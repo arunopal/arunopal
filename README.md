@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @arunopal
-- 👀 I’m interested in making useful software, learning AI/ML/IoT etc.
-- 🌱 I’m currently learning C/C++ and Python
-- 💞️ I’m looking to collaborate on easy things that can be understood at introductory college/high school level
-- 📫 Reach me at my email
+- CSE Junior
+- Full stack developer using MERN stack
+- Knows C++/Java/Python
+- Learning AI/ML (using TensorFlow)
+- "I wish things were different, but it weren't us who changed."
+- "I gave you all I had."
 
 <!---
 arunopal/arunopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
